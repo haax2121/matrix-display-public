@@ -8,6 +8,8 @@ Industrial display design with very good readability even for a user at a consid
 <img src="bottom.jpg" width="800">
 <img src="hardware\pcb_bottom.png" width="800">
 <img src="hardware\pcb_top.png" width="800">
+<img src="hardware\pcb_controller_front.png" width="800">
+<img src="hardware\pcb_controller_back.png" width="800">
 
 
 

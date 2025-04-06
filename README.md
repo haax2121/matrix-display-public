@@ -5,7 +5,7 @@ Industrial display design with very good readability even for a user at a consid
 <img src="working.gif" width="800">
 <img src="display.jpg" width="800">
 <img src="front.jpg" width="800">
-<img src="bottom.jp" width="800">
+<img src="bottom.jpg" width="800">
 <img src="front.jpg" width="800">
 <img src="bottom.jpg" width="800">
 <img src="hardware\pcb_bottom.png" width="800">
